@@ -1,0 +1,6 @@
+modelo,montadora,preço
+celta,chevrolet,18000
+hb20,hyndai,45000
+ka,ford,40000
+civic,honda,120000
+kombi,volkswagen,18000
